@@ -1,14 +1,19 @@
 ---
-title: "CV_Angela"
 author: "an433"
 date: "2023-02-03"
-output:
-  html_document:
+output: html_document
     df_print: paged
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, out.width = “200px”, echo=FALSE, out.extra=‘style=“float:right; padding:10px”’} 
+
+url <- “https://gradschool.cornell.edu/wp-content/uploads/2022/05/Angela-Nankabirwa-crop-400x400.jpg”
+knitr::include_graphics(url)
+
 ```
 
 
@@ -17,9 +22,9 @@ knitr::opts_chunk$set(echo = TRUE)
 PhD, Ecology and Evolutionary Biology,  
 Cornell University,  
 *an433@cornell.edu*  
-![](https://gradschool.cornell.edu/wp-content/uploads/2022/05/Angela-Nankabirwa-crop-400x400.jpg)
-
 </center>
+
+
 <br>
 
 # *Employment*
@@ -50,7 +55,9 @@ Cornell University,
     + Lake ^Victoria^
     + Lake Edward
 
-+ SFS: Fresh
++ SFS: Freshwater research
+
+    + Lake Superior
 
 
 # <ins> *Hobbies* </ins>
@@ -60,5 +67,7 @@ Cornell University,
 * Volleyball
 * Music, dance and drama
 * [*Nature*]{style="float:right"} `right-alignment`
+
+
 
 
