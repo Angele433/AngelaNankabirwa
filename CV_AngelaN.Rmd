@@ -2,18 +2,16 @@
 author: "an433"
 date: "2023-02-03"
 output: html_document
-    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r, out.width = “200px”, echo=FALSE, out.extra=‘style=“float:right; padding:10px”’} 
 
-url <- “https://gradschool.cornell.edu/wp-content/uploads/2022/05/Angela-Nankabirwa-crop-400x400.jpg”
+```{r, out.width = "150px", echo=FALSE, out.extra='style="float:right; padding:5px"'}
+url <- "https://gradschool.cornell.edu/wp-content/uploads/2022/05/Angela-Nankabirwa-crop-400x400.jpg"
 knitr::include_graphics(url)
-
 ```
 
 
@@ -27,32 +25,33 @@ Cornell University,
 
 <br>
 
-# *Employment*
+### *Employment*
 **2021 to date:** Graduate Student, Cornell University
 
 **2015 to 2021:** FIRRI, Uganda
 
 <br>
 
-# *Education*
+### *Education*
 **2021 to date:** PhD Ecology, Cornell University
 
-**2018-2020:** Msc Marine and Lacustrine Science and Management
+**2018-2020:** Msc. Marine and Lacustrine Science and Management, Vrije Universite Brussel, Ghent University, Antwerp University  
+
 <br>
 
-# *Publications*
+### *Publications*
 
 ******************************************************
 
-1. **Nankabirwa. A., et al.,............. (2022)
-2. Morelli, M., Theus, ~Marie~, .....**in preparation** 
+1. Nankabirwa. A., et al.,............. (2022)
+2. Morelli, M., Theus, Marie, .....**in preparation**
 
 
-## \hfill Conferences
+### \hfill Conferences
 
 + IAGLR: African Great Lakes
 
-    + Lake ^Victoria^
+    + Lake Victoria
     + Lake Edward
 
 + SFS: Freshwater research
@@ -60,13 +59,13 @@ Cornell University,
     + Lake Superior
 
 
-# <ins> *Hobbies* </ins>
+### <ins> *Hobbies* </ins>
 
 ===============================================
 
 * Volleyball
 * Music, dance and drama
-* [*Nature*]{style="float:right"} `right-alignment`
+* Nature  [*1*]{style="float:right"}
 
 
 
